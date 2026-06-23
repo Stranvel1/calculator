@@ -16,7 +16,7 @@
 2. установи python
 3. Открой терминал в папке с файлом.
 4. Выполни команду:  
-   python battercalc6.py
+   python bettercalc6.py
 
 ## 🧑‍💻 Используемые технологии
 - Python 3
